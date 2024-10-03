@@ -1,5 +1,5 @@
 link streamlit cloud:
-https://nshguchx54j9cwpd9q8u62.streamlit.app/
+https://redhumzwlk53ldr9ddhfyt.streamlit.app/
 
 link github:
 https://github.com/Saidill/proyek_analisis_data
